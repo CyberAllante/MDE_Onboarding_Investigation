@@ -44,7 +44,7 @@ Navigate to: [https://security.microsoft.com](https://security.microsoft.com)
 - Click **Download Onboarding Package**.
 
 📸 **Screenshot – Downloading Onboarding Package**  
-![Download Package](./DownloadePackage.png)
+![MDE Investigation Package](./file.png)
 
 ---
 
@@ -109,7 +109,7 @@ Navigate to: [https://security.microsoft.com](https://security.microsoft.com)
   - **Security Event Logs**
 
 📸 **Screenshot – Investigation Files**
-![MDE Investigation Package](./file.png)
+![Download Package](./DownloadePackage.png)
 
 ---
 
