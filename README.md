@@ -126,8 +126,3 @@ Navigate to: [https://security.microsoft.com](https://security.microsoft.com)
 - [Microsoft Defender for Endpoint Documentation](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/)
 - [Microsoft Security Portal](https://security.microsoft.com)
 - [Azure Portal](https://portal.azure.com)
-
----
-
-## 📂 Repository
-🔗 GitHub: [https://github.com/CyberAllante/Visualizations](https://github.com/CyberAllante/Visualizations)
